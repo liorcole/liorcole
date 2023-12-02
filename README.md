@@ -1,4 +1,4 @@
-liorcole@thenovaverse.com
+lior@shopari.com
 
 <!---
 liorcole/liorcole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
