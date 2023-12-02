@@ -1,6 +1,6 @@
 lior@shopari.com
 
-Noraverce repo is the shopARI codebase
+Noraverce organization is the shopARI codebase
 
 <!---
 liorcole/liorcole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
